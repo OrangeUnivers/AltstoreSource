@@ -14,32 +14,16 @@
             "name": "Null's Brawl",
             "bundleIdentifier": "nt.nb.ios",
             "developerName": "Null's Team",
-            "subtitle": "An modified version of Brawl Stars.",
+            "subtitle": "An modified version of Brawl Stars that connects to the Null's servers and has everything unlocked.",
             "localizedDescription": "Null's Brawl is an modded version of Brawl Stars with the following Features:\n• Clubs\n• Multiplayer\n• Ranked Mode competition\n• Friend List\n• Global and Local leaderboards\n• Special Offers are available in the Shop\n• All Brawlers can be unlocked\n• All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n• Null’s Connect\n• Replays\n• Brawl TV\n• Brawl Pass rewards are available\n• Friendly battles\n• Exclusive settings for friendly battles\n• Classic, special and hidden gamemodes are available to play\n• Map Maker\n• Exclusive modifiers",
             "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
             "tintColor": "#4B0A9F",
             "category": "games",
             "screenshots": [
-                {
-                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/lobby.png",
-                    "width": 2796,
-                    "height": 1290
-                },
-                {
-                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/rewards.png",
-                    "width": 2796,
-                    "height": 1290
-                },
-                {
-                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/shop.png",
-                    "width": 2796,
-                    "height": 1290
-                },
-                {
-                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/angel.png",
-                    "width": 2796,
-                    "height": 1290
-                }
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/lobby.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/rewards.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/shop.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/angel.png"
             ],
             "versions": [
                 {
@@ -54,7 +38,6 @@
             "appPermissions": {
                 "entitlements": [
                     "com.apple.security.application-groups",
-                    "com.apple.developer.siri",
                     "keychain-access-groups"
                 ],
                 "privacy": {
@@ -63,6 +46,18 @@
                     "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
                 }
             }
+        }
+    ],
+    "news": [
+        {
+            "title": "Null's Brawl now availible!",
+            "identifier": "app_new_nulls",
+            "caption": "An update is available for My Example App.",
+            "date": "2023-03-10T10:00:00-07:00",
+            "tintColor": "#4B0A9F",
+            "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
+            "notify": false,
+            "appID": "nt.nb.ios"
         }
     ]
 }
