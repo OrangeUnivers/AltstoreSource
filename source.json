@@ -20,10 +20,15 @@
             "tintColor": "#4B0A9F",
             "category": "games",
             "screenshots": [
-                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/lobby.png",
-                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/rewards.png",
-                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/shop.png",
-                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/angel.png"
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/lobby.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/rewards.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/shop.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/angel.png",
+                {
+                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/angel_horizontal.png",
+                    "width": 2796,
+                    "height": 1290
+                }
             ],
             "versions": [
                 {
@@ -52,7 +57,7 @@
         {
             "title": "Null's Brawl now availible!",
             "identifier": "app_new_nulls",
-            "caption": "An update is available for My Example App.",
+            "caption": "Null's is now part of the OrangeSource",
             "date": "2023-03-10T10:00:00-07:00",
             "tintColor": "#4B0A9F",
             "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
