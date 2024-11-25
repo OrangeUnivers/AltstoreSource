@@ -53,7 +53,7 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    "keychain-access-groups"
+                    "com.apple.security.keychain-access-groups"
                 ],
                 "privacy": {
                     "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
