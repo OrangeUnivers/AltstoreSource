@@ -55,7 +55,7 @@
             "caption": "Null's is now part of the OrangeSource! Go play with friends or with people around the world on Null's Brawl Stars servers!",
             "date": "2024-11-25T19:27:24+01:00",
             "tintColor": "#4B0A9F",
-            "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
+            "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/img/nulls-header.png",
             "notify": false,
             "appID": "nt.nb.ios"
         }
