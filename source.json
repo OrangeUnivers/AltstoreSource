@@ -4,7 +4,7 @@
     "description": "Welcome to OrangeUnivers's Source!",
     "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/orangesource.png",
     "headerURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/img/orange-banner.jpg",
-    "website": "https://orangeunivers.com/",
+    "website": "https://orangeunivers.com/altstore-source/",
     "tintColor": "#FC8803",
     "featuredApps": [
         "nt.nb.ios"
@@ -58,8 +58,7 @@
                 ],
                 "privacy": {
                     "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
-                    "NSMicrophoneUsageDescription": "App uses microphone to record video.",
-                    "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+                    "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
                 }
             }
         }
