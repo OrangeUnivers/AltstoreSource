@@ -1,0 +1,67 @@
+{
+    "name": "OrangeSource",
+    "subtitle": "All the apps in one!",
+    "description": "Welcome to OrangeUnivers's Source!",
+    "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/orangesource.png",
+    "headerURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/img/orange-banner.png",
+    "website": "https://orangeunivers.com/",
+    "tintColor": "#FC8803",
+    "featuredApps": [
+        "nt.nb.ios"
+    ],
+    "apps": [
+        {
+            "name": "Null's Brawl",
+            "bundleIdentifier": "nt.nb.ios",
+            "developerName": "Null's Team",
+            "subtitle": "An modified version of Brawl Stars.",
+            "localizedDescription": "Null's Brawl is an modded version of Brawl Stars with the following Features:\n• Clubs\n• Multiplayer\n• Ranked Mode competition\n• Friend List\n• Global and Local leaderboards\n• Special Offers are available in the Shop\n• All Brawlers can be unlocked\n• All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n• Null’s Connect\n• Replays\n• Brawl TV\n• Brawl Pass rewards are available\n• Friendly battles\n• Exclusive settings for friendly battles\n• Classic, special and hidden gamemodes are available to play\n• Map Maker\n• Exclusive modifiers",
+            "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
+            "tintColor": "#4B0A9F",
+            "category": "games",
+            "screenshots": [
+                {
+                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/lobby.png",
+                    "width": 2796,
+                    "height": 1290
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/rewards.png",
+                    "width": 2796,
+                    "height": 1290
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/shop.png",
+                    "width": 2796,
+                    "height": 1290
+                },
+                {
+                    "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/null/angel.png",
+                    "width": 2796,
+                    "height": 1290
+                }
+            ],
+            "versions": [
+                {
+                    "version": "58.279",
+                    "buildVersion": "58.279",
+                    "date": "2024-11-25T19:27:24+01:00",
+                    "size": 601012484,
+                    "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "com.apple.security.application-groups",
+                    "com.apple.developer.siri"
+                ],
+                "privacy": {
+                    "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+                    "NSMicrophoneUsageDescription": "App uses microphone to record video.",
+                    "NSUserTrackingUsageDescription": "Brawl Stars would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+                }
+            }
+        }
+    ]
+}
