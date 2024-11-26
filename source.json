@@ -14,8 +14,8 @@
             "name": "Null's Brawl",
             "bundleIdentifier": "nt.nb.ios",
             "developerName": "Null's Team",
-            "subtitle": "An modified version of Brawl Stars that connects to the Null's servers and has everything unlocked.",
-            "localizedDescription": "Null's Brawl is an modded version of Brawl Stars with the following Features:\n• Clubs\n• Multiplayer\n• Ranked Mode competition\n• Friend List\n• Global and Local leaderboards\n• Special Offers are available in the Shop\n• All Brawlers can be unlocked\n• All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n• Null’s Connect\n• Replays\n• Brawl TV\n• Brawl Pass rewards are available\n• Friendly battles\n• Exclusive settings for friendly battles\n• Classic, special and hidden gamemodes are available to play\n• Map Maker\n• Exclusive modifiers",
+            "subtitle": "An modified version of Brawl Stars.",
+            "localizedDescription": "Null's Brawl is an modded version of Brawl Stars that can connect to the Null's servers with the following Features:\n• Clubs\n• Multiplayer\n• Ranked Mode competition\n• Friend List\n• Global and Local leaderboards\n• Special Offers are available in the Shop\n• All Brawlers can be unlocked\n• All skins, sprays, pins, gadgets, star powers, gears and hypercharges are available to use\n• Null’s Connect\n• Replays\n• Brawl TV\n• Brawl Pass rewards are available\n• Friendly battles\n• Exclusive settings for friendly battles\n• Classic, special and hidden gamemodes are available to play\n• Map Maker\n• Exclusive modifiers",
             "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
             "tintColor": "#4B0A9F",
             "category": "games",
@@ -37,13 +37,12 @@
             ],
             "appPermissions": {
                 "entitlements": [
-                    "com.apple.security.application-groups",
                     "keychain-access-groups"
                 ],
                 "privacy": {
                     "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
                     "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
-                    "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+                     "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
                 }
             }
         }
