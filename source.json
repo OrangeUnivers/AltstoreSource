@@ -45,6 +45,42 @@
                     "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
                 }
             }
+        },
+        {
+            "name": "OrangeStars",
+            "bundleIdentifier": "ou.os.ios",
+            "developerName": "OrangeUnivers",
+            "subtitle": "An modified version of Null's Brawl.",
+            "localizedDescription": "OrangeStars is an modded version of Null's Brawl that can connect to the Null's servers too and but with a funky twist!",
+            "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
+            "tintColor": "#FC8803",
+            "category": "games",
+            "screenshots": [
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/lobby.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/rewards.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/shop.png",
+                "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/screenshots/nulls/angel.png"
+            ],
+            "versions": [
+                {
+                    "version": "58.279",
+                    "buildVersion": "58.279",
+                    "date": "2024-11-25T19:27:24+01:00",
+                    "size": 601012484,
+                    "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
+                    "localizedDescription": "Initial release."
+                }
+            ],
+            "appPermissions": {
+                "entitlements": [
+                    "keychain-access-groups"
+                ],
+                "privacy": {
+                    "NSPhotoLibraryUsageDescription": "Photo library access is needed if player contacts Supercell Player Support to send screenshots.",
+                    "NSCameraUsageDescription": "Camera access is needed for scanning QR codes.",
+                    "NSUserTrackingUsageDescription": "Null's Brawl would like permission to track you across apps and websites owned by other companies. Your data will be used for audience insights, analytics and improving our services."
+                }
+            }
         }
     ],
     "news": [
