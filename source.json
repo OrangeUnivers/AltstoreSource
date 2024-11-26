@@ -7,7 +7,8 @@
     "website": "https://orangeunivers.com/altstore-source/",
     "tintColor": "#FC8803",
     "featuredApps": [
-        "nt.nb.ios"
+        "nt.nb.ios",
+        "ou.os.ios"
     ],
     "apps": [
         {
@@ -29,7 +30,7 @@
                 {
                     "version": "58.279",
                     "buildVersion": "58.279",
-                    "date": "2024-11-25T19:27:24+01:00",
+                    "date": "2024-11-26T20:01:58+01:00",
                     "size": 601012484,
                     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
                     "localizedDescription": "Initial release."
@@ -52,7 +53,7 @@
             "developerName": "OrangeUnivers",
             "subtitle": "An modified version of Null's Brawl.",
             "localizedDescription": "OrangeStars is an modded version of Null's Brawl that can connect to the Null's servers too and but with a funky twist!",
-            "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/nulls.png",
+            "iconURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/icons/orange.png",
             "tintColor": "#FC8803",
             "category": "games",
             "screenshots": [
