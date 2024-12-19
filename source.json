@@ -29,14 +29,14 @@
             "versions": [
                 {
                     "version": "58.279",
-                    "buildVersion": "58.279",
+                    "buildVersion": "58",
                     "date": "2024-11-25T19:27:24+01:00",
                     "size": 601012484,
                     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
                     "localizedDescription": "Initial release."
                 },{
                     "version": "59.197",
-                    "buildVersion": "59.197",
+                    "buildVersion": "59",
                     "date": "2024-12-19T09:22:24+01:00",
                     "size": 636900000,
                     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb59.197_ecd6d17a.ipa",
@@ -92,16 +92,6 @@
         }
     ],
     "news": [
-        {
-            "title": "Valentin ist Lustig!",
-            "identifier": "valentin_funny",
-            "caption": "That's the truth and you can't escape it!",
-            "date": "2024-11-28T16:17:56+01:00",
-            "tintColor": "#EB1010",
-            "imageURL": "https://raw.githubusercontent.com/OrangeUnivers/AltstoreSource/main/img/valentin.jpg",
-            "notify": false,
-            "url": "https://orangeunivers.com/altstore-valentin/"
-        },
         {
             "title": "Null's Brawl now availible!",
             "identifier": "app_new_nulls",
