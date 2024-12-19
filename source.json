@@ -34,6 +34,13 @@
                     "size": 601012484,
                     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
                     "localizedDescription": "Initial release."
+                },{
+                    "version": "59.197",
+                    "buildVersion": "59.197",
+                    "date": "2024-12-19T09:22:24+01:00",
+                    "size": 636900000,
+                    "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb59.197_ecd6d17a.ipa",
+                    "localizedDescription": "Toys."
                 }
             ],
             "appPermissions": {
