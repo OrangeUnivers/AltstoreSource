@@ -28,19 +28,19 @@
             ],
             "versions": [
                 {
-                    "version": "58.279",
-                    "buildVersion": "58",
+                    "version": "59",
+                    "buildVersion": "59.197",
+                    "date": "2024-12-19T09:22:24+01:00",
+                    "size": 636939413,
+                    "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb59.197_ecd6d17a.ipa",
+                    "localizedDescription": "Added Toy Story."
+                },{
+                    "version": "58",
+                    "buildVersion": "58.279",
                     "date": "2024-11-25T19:27:24+01:00",
                     "size": 601012484,
                     "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb58.279_5f7dd754.ipa",
                     "localizedDescription": "Initial release."
-                },{
-                    "version": "59.197",
-                    "buildVersion": "59",
-                    "date": "2024-12-19T09:22:24+01:00",
-                    "size": 636900000,
-                    "downloadURL": "https://tempweb.nullsusercontent.com/ipa/nb59.197_ecd6d17a.ipa",
-                    "localizedDescription": "Toys."
                 }
             ],
             "appPermissions": {
